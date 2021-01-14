@@ -21,7 +21,7 @@
 
 
 #import it!
-from dbscan2 import dbscan2
+#from dbscan2 import dbscan2
 # If you would like to plot the results import the following
 from sklearn.datasets import make_moons
 import pandas as pd
